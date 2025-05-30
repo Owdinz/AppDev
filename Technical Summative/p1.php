@@ -13,7 +13,7 @@
         width: 100%;
     }
 </style>
-<body style="background-color: #71C4C2;>
+<body style="background-color: #71C4C2;">
     <h2>NESFRUTA</h2>
 
     <?php
